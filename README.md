@@ -1,5 +1,4 @@
 # Have a look :wink:
-![Activity 1](https://user-images.githubusercontent.com/69449533/135419483-4791f3f1-4c18-4611-b96e-a104921a8aec.jpeg)
 <img src="https://user-images.githubusercontent.com/69449533/135419483-4791f3f1-4c18-4611-b96e-a104921a8aec.jpeg" alt="drawing" width="200"/>
 
 # Quizify : Project Status
