@@ -1,5 +1,5 @@
 # Have a look :wink:
-![Activity 1](C:\Users\Ritik_Agra\Downloads)
+![Activity 1](https://user-images.githubusercontent.com/69449533/135419483-4791f3f1-4c18-4611-b96e-a104921a8aec.jpeg)
 
 # Quizify : Project Status
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
