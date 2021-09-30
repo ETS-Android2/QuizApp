@@ -1,9 +1,4 @@
 # Have a look :wink:
-<img src="https://user-images.githubusercontent.com/69449533/135419483-4791f3f1-4c18-4611-b96e-a104921a8aec.jpeg" alt="drawing" width="200"/>
-<img src="https://user-images.githubusercontent.com/69449533/135419540-475c8415-ce06-4402-8195-6abc6e0393f7.jpeg" alt="drawing" width="200"/>
-<img src="https://user-images.githubusercontent.com/69449533/135419483-4791f3f1-4c18-4611-b96e-a104921a8aec.jpeg" alt="drawing" width="200"/>
-<img src="https://user-images.githubusercontent.com/69449533/135419483-4791f3f1-4c18-4611-b96e-a104921a8aec.jpeg" alt="drawing" width="200"/>
-<img src="https://user-images.githubusercontent.com/69449533/135419483-4791f3f1-4c18-4611-b96e-a104921a8aec.jpeg" alt="drawing" width="200"/>
 <p float="left">
   <img src="https://user-images.githubusercontent.com/69449533/135419483-4791f3f1-4c18-4611-b96e-a104921a8aec.jpeg" width="100" />
   <img src="https://user-images.githubusercontent.com/69449533/135419540-475c8415-ce06-4402-8195-6abc6e0393f7.jpeg" width="100" /> 
